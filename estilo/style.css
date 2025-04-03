@@ -31,9 +31,10 @@ main {
     transform: translate(-50%, -50%);
     
     height: 627px;
-    width: 311px;
+    width: 321px;
     
     background: url(../imagens/frame-iphone.png) no-repeat;
+    
 }
 
 iframe#tela {
@@ -45,8 +46,10 @@ iframe#tela {
 }
 
 #redes {
-    text-align: right;
-    position: relative
+    
+    position: relative;
+    text-align: center;
+    
 }
 
 #redes img {
