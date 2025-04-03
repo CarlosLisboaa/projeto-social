@@ -46,6 +46,7 @@ iframe#tela {
 
 #redes {
     text-align: right;
+    position: relative
 }
 
 #redes img {
